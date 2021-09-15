@@ -1,2 +1,8 @@
 # TinyHttp
-a Tiny , Easy to use C++ HTTP library
+
+Usage:
+
+```cpp
+HttpRequest HTTP("ip/domain here", 80);
+HTTP.HttpGet("/index.php");
+```
