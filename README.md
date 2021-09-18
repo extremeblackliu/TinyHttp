@@ -1,5 +1,7 @@
 # TinyHttp
 
+a tiny http request C++ library with header-only
+
 Usage:
 
 ```cpp
