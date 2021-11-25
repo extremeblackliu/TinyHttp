@@ -1,6 +1,6 @@
 # TinyHttp
 
-a tiny http request C++ library with header-only
+a tiny http request C++ library with WSASocket
 
 Usage:
 
